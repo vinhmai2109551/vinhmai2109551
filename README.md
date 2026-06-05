@@ -15,5 +15,13 @@ Advanced Software Engineering student at Industrial University of Ho Chi Minh Ci
 | **DevOps & Infrastructure**| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
 
 ### 📊 GitHub Stats
-![Vinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinhmai2109551&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinhmai2109551&layout=compact&theme=tokyonight)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vinhmai2109551&show_icons=true&theme=tokyonight&count_private=true" alt="Vinh's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinhmai2109551&layout=compact&theme=tokyonight&count_private=true" alt="Top Langs" width="48%" />
+</p>
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,16,17,18&height=40&section=footer" width="100%" />
+</p>
