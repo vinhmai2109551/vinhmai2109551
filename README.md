@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Mai%20Lưu%20Hữu%20Vinh&subtitle=Software%20Engineer%20•%20Full-Stack%20•%20Mobile%20Dev&fontSize=40&subFontSize=18&fontAlignY=45" width="100%" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2d5a,70:6f42c1,100:d11141&height=250&section=header&text=Mai%20Lưu%20Hữu%20Vinh&subtitle=Software%20Engineer%20%7C%20Full-Stack%20%7C%20Mobile%20Dev&fontSize=42&subFontSize=16&fontAlignY=48&descAlignY=68" width="100%" alt="Banner" />
 
 <br/>
+
 ## 🚀 Crafting High-Performance Web & Mobile Applications
 
 <br/>
@@ -12,30 +13,37 @@
 [![Location](https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City-0078D4?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
 </div>
+
 ---
+
 ### 👨‍💻 About Me
-Advanced Software Engineering student at Industrial University of Ho Chi Minh City (IUH). Passionate about building robust, high-performance web & mobile applications with modern architectures.
 
-- 🔭 I’m currently working on **ChatPulse** - A Real-time chat & video calling application integrated with AI RAG.
+Advanced Software Engineering student at **Industrial University of Ho Chi Minh City (IUH)**. Passionate about building robust, high-performance web & mobile applications with modern architectures.
 
-- 💻 Core expertise: Backend Development (Spring Boot, Node.js) & Mobile App Development (React Native).
+* 🔭 I’m currently working on **ChatPulse** – *A Real-time chat & video calling application integrated with AI RAG.*
+* 💻 **Core expertise:** Backend Development (Spring Boot, Node.js) & Mobile App Development (React Native).
+* 🌱 **Learning:** Cloud Architectures & System Design.
 
-- 🌱 Learning: Cloud Architectures & System Design.
+---
 
 ### 🚀 Tech Stack & Tools
-|| Technologies |
-| --- | --- |
-| **Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) |
-| **Frontend & Mobile** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) |
-| **Databases** | ![Amazon DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white) |
-| **DevOps & Infrastructure**| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+
+| Layers | Technologies |
+| :--- | :--- |
+| **Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+| **Frontend & Mobile** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+| **Databases** | ![Amazon DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) |
+| **DevOps & Infra** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+
+---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinhmai2109551&theme=tokyonight" alt="Vinh's GitHub Activity Graph" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinhmai2109551&theme=tokyonight" alt="GitHub Details" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinhmai2109551&theme=tokyonight" alt="Vinh's GitHub Activity Graph" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinhmai2109551&theme=tokyonight" alt="GitHub Details" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2d5a,70:6f42c1,100:d11141&height=60&section=footer" width="100%" />
 </p>
