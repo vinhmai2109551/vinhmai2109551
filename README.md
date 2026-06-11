@@ -1,9 +1,25 @@
-# Hi there, I'm Mai Luu Huu Vinh 👋 (Software Engineer)
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Mai%20Lưu%20Hữu%20Vinh&subtitle=Software%20Engineer%20•%20Full-Stack%20•%20Mobile%20Dev&fontSize=40&subFontSize=18&fontAlignY=45" width="100%" alt="Banner" />
+
+<br/>
+## 🚀 Crafting High-Performance Web & Mobile Applications
+
+<br/>
+
+[![Gmail](https://img.shields.io/badge/Gmail-vinhmai2109551%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinhmai2109551@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-Mai%20Lưu%20Hữu%20Vinh-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/profile.php?id=100036894460240)
+[![Location](https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City-0078D4?style=for-the-badge&logo=google-maps&logoColor=white)](#)
+
+</div>
+---
+### 👨‍💻 About Me
 Advanced Software Engineering student at Industrial University of Ho Chi Minh City (IUH). Passionate about building robust, high-performance web & mobile applications with modern architectures.
 
 - 🔭 I’m currently working on **ChatPulse** - A Real-time chat & video calling application integrated with AI RAG.
+
 - 💻 Core expertise: Backend Development (Spring Boot, Node.js) & Mobile App Development (React Native).
+
 - 🌱 Learning: Cloud Architectures & System Design.
 
 ### 🚀 Tech Stack & Tools
@@ -19,6 +35,7 @@ Advanced Software Engineering student at Industrial University of Ho Chi Minh Ci
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinhmai2109551&theme=tokyonight" alt="Vinh's GitHub Activity Graph" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinhmai2109551&theme=tokyonight" alt="GitHub Details" width="48%" />
 </p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" />
 </p>
