@@ -39,10 +39,17 @@ Advanced Software Engineering student at **Industrial University of Ho Chi Minh 
 
 ### 📊 GitHub Stats
 
+<div align="center">
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinhmai2109551&theme=tokyonight" alt="Vinh's GitHub Activity Graph" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinhmai2109551&theme=tokyonight" alt="GitHub Details" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinhmai2109551&theme=tokyonight&hide_border=true" alt="Vinh's GitHub Activity Graph" width="100%" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinhmai2109551&theme=tokyonight" alt="GitHub Details" width="100%" />
+</p>
+
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2d5a,70:6f42c1,100:d11141&height=60&section=footer" width="100%" />
