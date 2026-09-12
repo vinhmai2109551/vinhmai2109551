@@ -37,7 +37,7 @@ Advanced Software Engineering student at **Industrial University of Ho Chi Minh 
 
 ---
 
-### 📊 GitHub Stats & Trophies
+### 📊 GitHub Stats
 
 <div align="center">
 
@@ -45,7 +45,7 @@ Advanced Software Engineering student at **Industrial University of Ho Chi Minh 
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=vinhmai2109551&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=4" alt="GitHub Trophies" />
+<img src="https://komarev.com/ghpvc/?username=vinhmai2109551&label=Profile%20Views&color=6f42c1&style=flat-square" alt="Profile Views" />
 
 </div>
 
