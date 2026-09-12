@@ -41,16 +41,19 @@ Advanced Software Engineering student at **Industrial University of Ho Chi Minh 
 
 <div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinhmai2109551&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vinh's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinhmai2109551&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=vinhmai2109551&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vinh's GitHub Stats" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinhmai2109551&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
-</p>
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinhmai2109551&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinhmai2109551&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
+
+<br/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2d5a,70:6f42c1,100:d11141&height=60&section=footer" width="100%" />
