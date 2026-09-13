@@ -47,6 +47,13 @@ Advanced Software Engineering student at **Industrial University of Ho Chi Minh 
 </div>
 
 <br/>
+### 📈 Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinhmai2109551&theme=tokyonight" alt="Vinh's Profile Summary" />
+
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2d5a,70:6f42c1,100:d11141&height=60&section=footer" width="100%" />
