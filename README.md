@@ -20,7 +20,7 @@
 
 Advanced Software Engineering student at **Industrial University of Ho Chi Minh City (IUH)**. Passionate about building robust, high-performance web & mobile applications with modern architectures.
 
-* 🔭 I’m currently working on **ChatPulse** – *A Real-time chat & video calling application integrated with AI RAG.*
+* 🔭 I'm currently working on **ChatPulse** – *A real-time chat & video calling application integrated with AI RAG.*
 * 💻 **Core expertise:** Backend Development (Spring Boot, Node.js) & Mobile App Development (React Native).
 * 🌱 **Learning:** Cloud Architectures & System Design.
 
@@ -32,28 +32,17 @@ Advanced Software Engineering student at **Industrial University of Ho Chi Minh 
 | :--- | :--- |
 | **Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
 | **Frontend & Mobile** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
-| **Databases** | ![Amazon DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) |
+| **Databases** | ![DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) |
 | **DevOps & Infra** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ---
 
-### 📊 GitHub Stats
+### 📫 Let's Connect
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinhmai2109551&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=vinhmai2109551&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vinh's GitHub Stats" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=vinhmai2109551&theme=tokyonight&no-bg=true&no-frame=true&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=vinhmai2109551&label=Profile%20Views&color=6f42c1&style=flat-square" alt="Profile Views" />
+[![GitHub](https://img.shields.io/badge/GitHub-vinhmai2109551-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinhmai2109551)
+[![Profile Views](https://komarev.com/ghpvc/?username=vinhmai2109551&label=Profile%20Views&color=6f42c1&style=for-the-badge)](https://github.com/vinhmai2109551)
 
 </div>
 
