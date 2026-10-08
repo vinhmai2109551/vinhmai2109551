@@ -58,3 +58,10 @@ Advanced Software Engineering student at **Industrial University of Ho Chi Minh 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2d5a,70:6f42c1,100:d11141&height=60&section=footer" width="100%" />
 </p>
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinhmai21095551/vinhmai21095551/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinhmai21095551/vinhmai21095551/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vinhmai21095551/vinhmai21095551/output/github-contribution-grid-snake.svg">
+</picture>
