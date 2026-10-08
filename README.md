@@ -60,8 +60,6 @@ Advanced Software Engineering student at **Industrial University of Ho Chi Minh 
 </p>
 ## 🐍 Contribution Snake
 
-## 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/vinhmai21095551/vinhmai21095551/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </p>
