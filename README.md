@@ -52,8 +52,6 @@ Music streaming mobile app with a 100% TypeScript codebase, PR-based Git flow an
 `React Native` `TypeScript` `Docker`
 
 #### 🛒 Mobile-Sell · 🎬 VideoSharingApp
-*(Add a one-line description + tech stack)*
-
 ---
 
 ### 📈 GitHub Activity
